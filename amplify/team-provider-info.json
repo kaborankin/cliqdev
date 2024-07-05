@@ -1,0 +1,15 @@
+{
+  "cliqdev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cliqdev-cliqdev-8616b-authRole",
+      "UnauthRoleArn": "arn:aws:iam::471112655988:role/amplify-cliqdev-cliqdev-8616b-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::471112655988:role/amplify-cliqdev-cliqdev-8616b-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-cliqdev-cliqdev-8616b-deployment",
+      "UnauthRoleName": "amplify-cliqdev-cliqdev-8616b-unauthRole",
+      "StackName": "amplify-cliqdev-cliqdev-8616b",
+      "StackId": "arn:aws:cloudformation:us-east-1:471112655988:stack/amplify-cliqdev-cliqdev-8616b/7dde4bf0-3aa5-11ef-9f24-0e6c7dd1c56d",
+      "AmplifyAppId": "do15aw4zy9bjq"
+    }
+  }
+}
